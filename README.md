@@ -1,0 +1,1 @@
+A pure vanilla js app. This app takes the birthdate as an input and then checks your lucky number along with your birthdate, if it does or doesn't match it'll show the message.
